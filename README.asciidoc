@@ -1,6 +1,6 @@
 = Hello, this is a page for MINAbalskiOrg!
 
-See it here: https://[minabalskiorg.github.io]/
+See it here: https://minabalskiorg.github.io/
 
 == Section Title
 
