@@ -2,6 +2,7 @@
 
 == Feature1
 include::feature1.adoc[]
+
 == Feature2
 include::feature2.adoc[]
 
