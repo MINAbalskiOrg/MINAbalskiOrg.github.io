@@ -1,0 +1,7 @@
+= Hello, this is the documentation page for MINAbalskiOrg!
+
+== Feature1
+include::feature1.asciidoc[]
+== Feature2
+include::feature2.asciidoc[]
+
