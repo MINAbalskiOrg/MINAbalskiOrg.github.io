@@ -1,0 +1,13 @@
+= Hello, this is a page for MINAbalskiOrg!
+
+See it here: https://[minabalskiorg.github.io]/
+
+== Section Title
+
+* A list item
+* Another list item
+
+[,ruby]
+----
+puts 'Hello, World!'
+----
